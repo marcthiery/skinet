@@ -26,3 +26,31 @@ D:\aaa_ma_fomation_dev\Neil_Cummings\skinet\API\obj\Debug\net5.0\refint\API.dll
 D:\aaa_ma_fomation_dev\Neil_Cummings\skinet\API\obj\Debug\net5.0\API.pdb
 D:\aaa_ma_fomation_dev\Neil_Cummings\skinet\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 D:\aaa_ma_fomation_dev\Neil_Cummings\skinet\API\obj\Debug\net5.0\ref\API.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\appsettings.Development.json
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\appsettings.json
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\API.exe
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\API.deps.json
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\API.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\API.pdb
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\refint\API.dll
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.pdb
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\AAAA_Devenir_dev\DotNet_React_Angular\Neil_Cummings\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\obj\Debug\net5.0\ref\API.dll

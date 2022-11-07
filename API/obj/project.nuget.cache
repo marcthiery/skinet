@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZSK5k2C7PmPRuYrAKN/sq8e8yTbK2VlrutFE2KJCvYaP9xOxTayFrnwD/8jNFrWgrBLwqi0iQVSyTYm50en37Q==",
+  "dgSpecHash": "8uKW9bIH9ONTg8poRap9obUJ2+LiWZ81+cvF138tC0d0+CVR+SsPfv25ZXZXJbAt41t6dtE6J+SAmtVsLQxC6A==",
   "success": true,
-  "projectFilePath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\skinet\\API\\API.csproj",
+  "projectFilePath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thier\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\thier\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
